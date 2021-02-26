@@ -21,4 +21,4 @@ const cliente = {
 
 console.log(saudacao)
 console.log(exec()) //chamar a função exec e o resultado dessa função vai retornar a variavel definida com o mesmo identificador da de fora, mas como são contexto léxicos diferentes vai retornar outro valor
-console.log(cliente)//obj que criamos uma coleçao de chaves e valores aninhadas 
+console.log(cliente)//o'bj que criamos uma coleçao de chaves e valores aninhadas 
