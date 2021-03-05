@@ -28,3 +28,4 @@ console.log(escola.replace(3, 'e'))
 
 //pegar um string separado por virgular e converter para um array, basta chamar a função split e passa o que se usar como separador
 console.log('Ana,Marta,Pedro'.split(','))
+
